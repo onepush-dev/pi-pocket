@@ -2,7 +2,7 @@
 
 Pi Pocket — a durable, multiplayer, mobile-first web app for Pi coding agents. Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/BszJ44)
 
 Upstream: [TannerMidd/pi-pocket](https://github.com/TannerMidd/pi-pocket) (MIT), release v0.29.0-beta.8 (`cbb1eba`), built from upstream's own `docker/Dockerfile`, app unmodified. Image: `ghcr.io/onepush-dev/pi-pocket:0.29.0-beta.8`.
 
